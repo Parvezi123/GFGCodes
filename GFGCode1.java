@@ -2,7 +2,7 @@
 
 import java.util.ArrayList;
 
-public class GFGCode2 {
+public class GFGCode1 {
     public static void main(String[] args) {
         ValueEqualToIndex valueEqualToIndex = new ValueEqualToIndex();
         System.out.println(valueEqualToIndex.valueEqualToIndex(new int[]{3,2,1,4,6},5));
